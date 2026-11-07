@@ -1,0 +1,7 @@
+[project]
+name = "mirath-py-munasakhat-multi-death"
+version = "1.0.0"
+description = "Munasakhat Sequential Multi-Generation Estate Unification Matrix (حلال مسائل المناسخات وتعدد الوفيات المتعاقبة)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
